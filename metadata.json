@@ -1,0 +1,6 @@
+{
+  "name": "X-MARKET",
+  "description": "X-MARKET — Full-stack online marketplace with real-time inventory, order tracking, live messaging, AI shopping assistant, and secure administration.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,31 @@
+export const REGIONS_DATA: Record<string, string[]> = {
+  'Tashkent City': [
+    'Bektemir',
+    'Chilanzar',
+    'Mirabad',
+    'Mirzo Ulugbek',
+    'Olmazor',
+    'Sergeli',
+    'Shaykhontohur',
+    'Uchtepa',
+    'Yakkasaray',
+    'Yashnobod',
+    'Yunusabad',
+    'Yangihayot',
+  ],
+  'Tashkent Region': ['Chirchik', 'Almalyk', 'Angren', 'Bekabad', 'Kibray', 'Zangiota', 'Nurafshon', 'Parkent'],
+  'Samarkand': ['Samarkand City', 'Urgut', 'Kattakurgan', 'Bulungur', 'Jomboy', 'Pastdargom'],
+  'Bukhara': ['Bukhara City', 'Gijduvan', 'Kagan', 'Karakul', 'Vobkent', 'Romitan'],
+  'Fergana': ['Fergana City', 'Margilan', 'Kokand', 'Kuva', 'Rishtan', 'Beshariq'],
+  'Andijan': ['Andijan City', 'Asaka', 'Shahrikhan', 'Khanabad', 'Kurgantepa'],
+  'Namangan': ['Namangan City', 'Chust', 'Pop', 'Kosonsoy', 'Uchkurgan'],
+  'Kashkadarya': ['Karshi', 'Shakhrisabz', 'Kitab', 'Guzar', 'Muborak'],
+  'Surkhandarya': ['Termez', 'Denov', 'Sherobod', 'Boysun', 'Kumkurgan'],
+  'Khorezm': ['Urgench', 'Khiva', 'Pitnak', 'Gurlan', 'Khazarasp'],
+  'Navoi': ['Navoi City', 'Zarafshan', 'Kyzyltepa', 'Karmana', 'Nurota'],
+  'Jizzakh': ['Jizzakh City', 'Gallaorol', 'Dustlik', 'Zamin', 'Paxtakor'],
+  'Syrdarya': ['Gulistan', 'Yangiyer', 'Shirin', 'Sirdaryo', 'Bayavut'],
+  'Karakalpakstan': ['Nukus', 'Beruniy', 'Turtkul', 'Khojeyli', 'Kungrad'],
+};
+
+export const TELEGRAM_ADMIN_URL = 'https://t.me/RAHMATAL1EV';
